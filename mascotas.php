@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Patitas de Lady</title>
     <link rel="shortcut icon" href="./img/logo.ico" type="image/x-icon">
-    <link rel="stylesheet" href="style.css">
+ 
 </head>
 <body>
     
