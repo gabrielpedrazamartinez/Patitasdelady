@@ -20,7 +20,7 @@
     <li><a href="index.html">Inicio</a></li>
     <li><a href="sobrenosotros.php">Sobre nosotros</a></li>
     <li style="background-color: rgb(0, 0, 0);"><a href="mascotas.php">Mascotas</a></li>
-    <li><a href="acceso.html">Acceso</a></li>
+    <li><a href="acceso.php">Acceso</a></li>
 </ol>
 
 </nav>
